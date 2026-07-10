@@ -14,7 +14,7 @@ Compared to the first version, this project includes:
     - Presentation Layer
     - Business Logic Layer
     - Data Access Layer
-    - Models
+    - Common
 
 - ✅ Multi-Frame Tkinter UI
 
