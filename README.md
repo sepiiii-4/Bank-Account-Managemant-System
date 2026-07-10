@@ -60,7 +60,7 @@ Bank-Account-Management-System
 │
 ├── BusinessLogicLayer
 ├── DataAccessLayer
-├── Models
+├── Common
 ├── PresentationLayer
 ├── Database
 └── main.py
